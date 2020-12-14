@@ -1,6 +1,6 @@
-### Hi there, I'm Sabesan Sathananthan [website] 👋
+### Hi there, I'm Prayanghsu Biswas Hritwick [website] 👋
 
-## I'm a Student, Undergraduate, Developer, and Physics Teacher!
+## I'm a Student, Undergraduate, Developer!
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
