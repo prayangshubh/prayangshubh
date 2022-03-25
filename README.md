@@ -27,12 +27,3 @@
 <a href="https://instagram.com/prayangshubh" target="blank"><img align="center" src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="prayangshubh" height="30" /></a>
 <a href="https://www.youtube.com/c/prayangshubiswas" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="Prayangshu Biswas" height="30" /></a>
 </p>
-
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
-<a href="https://github.com/prayangshubh">
-<img align="center" alt="Prayangshu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prayangshubh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/prayangshubh">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=prayangshubh&layout=compact&theme=radical" />
-</a>
