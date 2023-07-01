@@ -28,6 +28,13 @@ Curious to see some of my projects? You can find a selection of them right here 
 
 Here's a fun fact about me: I'm not only a tech enthusiast but also a musician. Music is my passion, and it fuels my creativity and drive. Combining the worlds of technology and music is where I find true joy.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prayangshubh&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prayangshubh&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prayangshubh&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prayangshubh&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prayangshubh&theme=calm&utcOffset=8)
+
+
 ## Connect with Me
 
 Let's stay connected and explore the world together. You can find me on various platforms:
